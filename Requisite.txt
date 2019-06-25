@@ -1,0 +1,13 @@
+##NOTIFICATION SERVICE
+
+#API to send emails
+#API to send attachements
+API to send bulk messages
+
+maintain consumers by a token 
+set ratelimiting for each token
+configure templates and associate to a token 
+schedule email trigger
+keep logs of outgoing mails
+search endppint to search throigh sent mails
+
